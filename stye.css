@@ -1,0 +1,9 @@
+:root { --color:blue
+}
+h1 {
+     --color1: green;
+     color : var(--color1) ;
+    }
+p { color : var(--color);}
+a { color : var(--color);}
+
